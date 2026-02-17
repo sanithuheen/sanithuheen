@@ -1,6 +1,6 @@
 # Hi, I'm Sanithu D. Heengama 👋
 
-🎓 **Rising Junior @ Brown University**  
+🎓 **Junior @ Brown University**  
 _Sc.B. in Computer Engineering (ABET Accredited) & Applied Mathematics (GPA: 3.9/4.0)_  
 📍 Providence, RI
 
