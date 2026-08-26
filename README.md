@@ -14,7 +14,7 @@ _Sc.B. in Computer Engineering (ABET Accredited) & Applied Mathematics (GPA: 3.9
 **🏆 Awards & Honors**
 - 2× International Scholars with Honors Award, 2× Pearson Edexcel Excellence Awards
 - Global and Thailand Mathematics Olympiad Medals
-- 2× UTRA Fellowship Award
+- 3× UTRA Fellowship Award
 
 **🛠️ Technical Stack**
 - Python, C, C++, Java, JavaScript, MATLAB, PyTorch, CUDA, TeNPy
