@@ -15,10 +15,11 @@ _Sc.B. in Computer Engineering (ABET Accredited)
 - 2× International Scholars with Honors Award, 2× Pearson Edexcel Excellence Awards
 - Global and Thailand Mathematics Olympiad Medals
 - 3× UTRA Fellowship Award
+  
 
 **🛠️ Technical Stack**
 - Python, C, C++, Java, JavaScript, MATLAB, PyTorch, CUDA, TeNPy
-- Qiskit, Pennylane (Quantum SDKs)
+- Verilog/FPGA experience
 - Fusion 360, SolidWorks, Docker, AWS
 
 ---
