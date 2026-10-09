@@ -1,7 +1,7 @@
 # Hi, I'm Sanithu D. Heengama 👋
 
 🎓 **Senior @ Brown University**  
-_Sc.B. in Computer Engineering  
+    Sc.B. in Computer Engineering  
 📍 Providence, RI
 
 ---
